@@ -205,11 +205,6 @@ input, select, textarea {
 		padding: 0.5em 0 0.5em 1.5em;
 	}
 
-	/* karla's code
-	.buttonContainer{
-		display: flex;
-		flex-direction: column;
-	} */
 
 	code {
 		background: #f7f7f7;
